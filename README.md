@@ -1,5 +1,5 @@
 # dqn_find_the_exit
-基于深度学习dqn算法的寻找出口的游戏Demo
+基于深度学习dqn算法的打砖块游戏的游戏Demo
 
 1 运行dqn.py执行训练过程
 
